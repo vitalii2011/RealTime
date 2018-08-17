@@ -7,33 +7,33 @@
   <translation id="IncompatibleModsFoundMessage" value="Real Time обнаружил как минимум один несовместимый мод (или частично несовместимый). Рекомендуется отписаться от всех несовместимых модов. Можно продолжить играть на свой собственный риск, но что-то может не работать или игра может вылетать." />
   <translation id="Minutes" value="мин." />
 
-  <translation id="Tools" value="Утилиты" />
+  <translation id="Tools" value="Инструменты" />
   <translation id="ShowIncompatibilityNotifications" value="Показывать сообщения о несовместимости с другими модами" />
   <translation id="ResetToDefaults" value="Вернуть опции по умолчанию" />
-  <translation id="UseForNewGames" value="Использовать текущие настройки для новых игр" />
+  <translation id="UseForNewGames" value="Использовать текущие настройки для всех карт" />
 
   <translation id="1General" value="Основные" />
-  <translation id="0Time" value="Настройки времени" />
+  <translation id="0Time" value="Настройки активности" />
   <translation id="1Other" value="Другие настройки" />
   <translation id="WakeUpHour" value="Город просыпается" />
   <translation id="WakeUpHourTooltip" value="Время, когда большинство жителей начинают просыпаться. Бюджеты и скорость времени переходят в режим 'день'!" />
   <translation id="GoToSleepHour" value="Город ложится спать" />
   <translation id="GoToSleepHourTooltip" value="Время, когда большинство жителей ложатся спать. Бюджеты и скорость времени переходят в режим 'ночь'!" />
-  <translation id="DayTimeSpeed" value="Скорость времени (день)" />
+  <translation id="DayTimeSpeed" value="Дневной темп" />
   <translation id="DayTimeSpeedTooltip" value="Скорость течения времени днём. '1' очень медленно - почти реальное время!" />
-  <translation id="NightTimeSpeed" value="Скорость времени (ночь)" />
+  <translation id="NightTimeSpeed" value="Ночной темп" />
   <translation id="NightTimeSpeedTooltip" value="Скорость течения времени ночью. '1' очень медленно - почти реальное время!" />
   <translation id="IsDynamicDayLengthEnabled" value="Динамическая долгота дня" />
   <translation id="IsDynamicDayLengthEnabledTooltip" value="Долгота дня завист от темы карты и от времени года. Зимой дни короче, чем летом." />
-  <translation id="VirtualCitizens" value="Метод симуляции жителей (реальных и виртуальных)" />
+  <translation id="VirtualCitizens" value="Моделирование жителей (реальных и виртуальных)" />
   <translation id="VirtualCitizensTooltip" value="Выберите 'Все' для реального города (но макс. 65.535 жителей) или 'Оригинально', если компьютер малопроизводительный" />
   <translation id="VirtualCitizens.None" value="Все жители города реальные" />
   <translation id="VirtualCitizens.Vanilla" value="Как в оригинальной игре" />
   <translation id="UseSlowAging" value="Улучшенные взросление и рождаемость" />
   <translation id="UseSlowAgingTooltip" value="Если активировано, 1 день в игре означает 1 год в жизни жителей. Если выключено, 1 день в игре означает от 10 (при скорости времени 6) до 340 (при скорости 1) лет жизни." />
-  <translation id="IsWeekendEnabled" value="Включить выходные" />
+  <translation id="IsWeekendEnabled" value="Выходные дни" />
   <translation id="IsWeekendEnabledTooltip" value="Жители не ходят в школу и на работу по выходным" />
-  <translation id="IsLunchtimeEnabled" value="Включить обед" />
+  <translation id="IsLunchtimeEnabled" value="Перерыв на обед" />
   <translation id="IsLunchtimeEnabledTooltip" value="Работники выходят на обед в близлежащие заведения" />
   <translation id="StopConstructionAtNight" value="Приостановить стройку и улучшение зданий ночью" />
   <translation id="StopConstructionAtNightTooltip" value="Строители тоже хотят поспать" />
@@ -42,7 +42,7 @@
   <translation id="SwitchOffLightsAtNight" value="Здания выключают свет ночью" />
   <translation id="SwitchOffLightsAtNightTooltip" value="Жилые здания выключают свет, когла большинство жителей спят, другие здания и парки - когда там никто не работает" />
 
-  <translation id="2Quotas" value="Вероятности" />
+  <translation id="2Quotas" value="Запросы" />
   <translation id="SecondShiftQuota" value="Вторая смена" />
   <translation id="SecondShiftQuotaTooltip" value="Процент жителей, работающих во вторую смену" />
   <translation id="NightShiftQuota" value="Ночная смена" />
@@ -56,33 +56,33 @@
   <translation id="OnTimeQuota" value="Без сверхурочных" />
   <translation id="OnTimeQuotaTooltip" value="Процент жителей, которые будут ходить на работу без сверхурочных" />
 
-  <translation id="3Events" value="Мероприятия" />
+  <translation id="3Events" value="События" />
   <translation id="AreEventsEnabled" value="Активировать дополнительные события" />
   <translation id="AreEventsEnabledTooltip" value="Если выключено, то только события из оригинальной игры могут проходить в городе" />
-  <translation id="EarliestHourEventStartWeekday" value="Самое раннее по будням" />
-  <translation id="EarliestHourEventStartWeekdayTooltip" value="Самое раннее время, когда мероприятие может начаться в будний день" />
-  <translation id="LatestHourEventStartWeekday" value="Самое позднее по будням" />
-  <translation id="LatestHourEventStartWeekdayTooltip" value="Самое позднее время, когда мероприятие может начаться в будний день" />
-  <translation id="EarliestHourEventStartWeekend" value="Самое раннее по вых." />
-  <translation id="EarliestHourEventStartWeekendTooltip" value="Самое раннее время, когда мероприятие может начаться в выходной день" />
-  <translation id="LatestHourEventStartWeekend" value="Самое позднее по вых." />
-  <translation id="LatestHourEventStartWeekendTooltip" value="Самое позднее время, когда мероприятие может начаться в выходной день" />
+  <translation id="EarliestHourEventStartWeekday" value="Начало по будням" />
+  <translation id="EarliestHourEventStartWeekdayTooltip" value="Самое раннее время, когда мероприятия могут начаться в будний день" />
+  <translation id="LatestHourEventStartWeekday" value="Завершение по будням" />
+  <translation id="LatestHourEventStartWeekdayTooltip" value="Самое позднее время, когда мероприятия могут начаться в будний день" />
+  <translation id="EarliestHourEventStartWeekend" value="Начало по выходным" />
+  <translation id="EarliestHourEventStartWeekendTooltip" value="Самое раннее время, когда мероприятия могут начаться в выходной день" />
+  <translation id="LatestHourEventStartWeekend" value="Завершение по выходным" />
+  <translation id="LatestHourEventStartWeekendTooltip" value="Самое позднее время, когда мероприятия могут начаться в выходной день" />
     
-  <translation id="4Time" value="Время" />
+  <translation id="4Time" value="Распорядок дня" />
   <translation id="MaxOvertime" value="Макс. сверхурочные" />
-  <translation id="MaxOvertimeTooltip" value="Максимальные сверхурочные для жителей - они придут на работу раньше и уйдут позже" />
+  <translation id="MaxOvertimeTooltip" value="Максимальные сверхурочные - на сколько работники придут на работу раньше и(или) уйдут позже" />
   <translation id="SchoolBegin" value="Начало учеб. дня" />
   <translation id="SchoolBeginTooltip" value="Время начала занятий в школе - дети будут учиться" />
   <translation id="SchoolEnd" value="Конец учеб. дня" />
   <translation id="SchoolEndTooltip" value="Время окончания занятий в школе - дети покинут школу" />
   <translation id="WorkBegin" value="Начало рабочей смены" />
   <translation id="WorkBeginTooltip" value="Время начала рабочей смены - жители будут на работе или в университете" />
-  <translation id="WorkEnd" value="Оконч. рабочей смены" />
+  <translation id="WorkEnd" value="Конец рабочей смены" />
   <translation id="WorkEndTooltip" value="Время окончания рабочей смены - жители покинут рабочие места или университет" />
   <translation id="LunchBegin" value="Начало обеда" />
-  <translation id="LunchBeginTooltip" value="Начало обеденного времени - жители пойдут пообедать" />
+  <translation id="LunchBeginTooltip" value="Начало обеденного перерыва - жители пойдут пообедать" />
   <translation id="LunchEnd" value="Конец обеда" />
-  <translation id="LunchEndTooltip" value="Конец обеденного времени - жители вернутся с обеда на работу" />
+  <translation id="LunchEndTooltip" value="Конец обеденного перерыва - жители вернутся с обеда на работу" />
   <translation id="MaxVacationLength" value="Максимум дней отпуска" />
   <translation id="MaxVacationLengthTooltip" value="Сколько дней отпуска горожане могут максимально взять. Установите 0, чтобы отключить отпуска." />
 
