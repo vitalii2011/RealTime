@@ -18,7 +18,7 @@
   <translation id="1Other" value="Другие настройки" />
   <translation id="WakeUpHour" value="Город просыпается" />
   <translation id="WakeUpHourTooltip" value="Время, когда большинство жителей начинают просыпаться. Бюджеты и скорость времени переходят в режим 'день'!" />
-  <translation id="GoToSleepHour" value="Город ложится спать" />
+  <translation id="GoToSleepHour" value="Город засыпает" />
   <translation id="GoToSleepHourTooltip" value="Время, когда большинство жителей ложатся спать. Бюджеты и скорость времени переходят в режим 'ночь'!" />
   <translation id="DayTimeSpeed" value="Скорость времени (день)" />
   <translation id="DayTimeSpeedTooltip" value="Скорость течения времени днём. '1' очень медленно - почти реальное время!" />
@@ -80,7 +80,7 @@
   <translation id="SchoolEndTooltip" value="Время окончания занятий в школе - дети покинут школу" />
   <translation id="WorkBegin" value="Начало рабочей смены" />
   <translation id="WorkBeginTooltip" value="Время начала рабочей смены - жители будут на работе или в университете" />
-  <translation id="WorkEnd" value="Оконч. рабочей смены" />
+  <translation id="WorkEnd" value="Конец рабочей смены" />
   <translation id="WorkEndTooltip" value="Время окончания рабочей смены - жители покинут рабочие места или университет" />
   <translation id="LunchBegin" value="Начало обеда" />
   <translation id="LunchBeginTooltip" value="Начало обеденного времени - жители пойдут пообедать" />
